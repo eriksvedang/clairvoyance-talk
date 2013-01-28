@@ -10,12 +10,12 @@ Föreläsning om Clairvoyance
 Brasklappar
 -----------
 
-Spelet är inte en framgångssaga!
-Gör som vi gjorde på egen risk
-Vissa misstag är roliga att göra, andra inte, välj själva
-Vi agerade ibland mot vårt eget bättre vetande
-Lätt att bli förälskad i sitt verk och vilja få det perfekt
-Olika synsätt på livet
+- Spelet är inte en framgångssaga!
+- Gör som vi gjorde på egen risk
+- Vissa misstag är roliga att göra, andra inte, välj själva
+- Vi agerade ibland mot vårt eget bättre vetande
+- Lätt att bli förälskad i sitt verk och vilja få det perfekt
+- Olika synsätt på livet och sitt arbete
 
 Brädspelet
 ----------
